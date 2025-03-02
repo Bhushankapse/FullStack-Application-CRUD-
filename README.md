@@ -1,13 +1,14 @@
-FullStack-Application-CRUD
+# FullStack-Application-CRUD
 A complete full-stack CRUD (Create, Read, Update, Delete) application built using React.js for the frontend and Spring Boot for the backend.
 
-Project Structure
+# Project Structure
+
 FullStack-Application-CRUD/
 │── fullstack-application-backend/   # Spring Boot backend
 │── fullstack-frontend/              # React.js frontend
 │── README.md                        # Project documentation
 
-Tech Stack
+# Tech Stack
 
 Frontend:
 React.js
@@ -22,7 +23,7 @@ Hibernate
 MySQL / H2 Database
 REST API
 
-Setup & Installation
+# Setup & Installation
 
 1️⃣ Clone the repository:
 git clone https://github.com/Bhushankapse/FullStack-Application-CRUD-.git
