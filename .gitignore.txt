@@ -1,0 +1,16 @@
+# Ignore STS/Eclipse files
+.project
+.classpath
+.settings/
+.idea/
+
+# Ignore Node.js files
+node_modules/
+dist/
+
+# Ignore Maven build files
+target/
+
+# Ignore environment-specific files
+.env
+*.log
